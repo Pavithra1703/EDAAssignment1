@@ -44,4 +44,3 @@ For each plot you should
 
     Add the PNG file and R code file to your git repository
 
-
